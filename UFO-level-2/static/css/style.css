@@ -191,7 +191,7 @@ select {
   }
 }
 
-/* keyframe animations which will be used to animate the title */
+/* keyframe animations to animate the title */
 @keyframes title {
   from {
     opacity: 0;
